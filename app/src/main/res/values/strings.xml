@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">陈之然</string>
+    <string name="splash_text">app启动页面</string>
+    <string name="click_to_enter">点击进入</string>
+</resources>
